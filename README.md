@@ -3,8 +3,8 @@
 ## In this course we learned about:
   * Basic Python
   * Pandas
-  *Numpy
-  *Data analyzing with Python and Panda
+  * Numpy
+  * Data analyzing with Python and Panda
 
 
 ## Link to main repository 
