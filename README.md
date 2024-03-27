@@ -8,5 +8,5 @@
 
 
 ## Link to main repository 
-The Instructions of this course were provided by [Sigve Haug](https://github.com/sigvehaug/DSF-DCBP).
+The instructions of this course were provided by [Sigve Haug](https://github.com/sigvehaug/DSF-DCBP).
 
