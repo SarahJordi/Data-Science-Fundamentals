@@ -1,0 +1,13 @@
+5.1.What is Ubelix?
+	Ubelix ist he high performance compunting cluster of UniBe. It is a Linux Cluster.
+
+5.2. How do you gain access?
+  The campus account must be activated by the Ubelix team. The request for activation can be submitted on the service desk.
+
+5.3. How do you submit a job?
+  The resurce manager is SLURM. A job can be submitted by sbatch (batch script), srun (directly running the executable) or salloc (interactive)
+
+5.4. Who can have access?
+  It is available for all personell oft he University for their scientific work. Students can have access if they need it for a coure or a thesis.
+
+5.5. What resources are available there?
