@@ -1,30 +1,5 @@
-# 2. Answer background questions
- ## 2.1 Which packages are available for ML? Describe the pros and cons and document the availability.
 
- ## 2.2 WHat is Chembl? How do you access it?
-It is a website which provides Information about bioactive molecules. It is acessible online.
 
- ## 2.3 What is machine learning, and how does it differ from traditional programming?
-Machine learning means that a computer system is able to learn without explicit instructions. 
-Traditionell programming needs to provide every single step, which the computer can follow. ML can learn from previous things.
 
- ## 2.4 What are key concepts and techniques in ML?
 
- ## 2.5 WHat are the different types of ML algorithms?
-There are 4 types: supervised, semi-supervised, unsupervised and reinforced
-
-## 2.6 What are the common applications of ML?
-	Image recognition, speech recognition, traffic prediction and product recommendations
-
-  ## 2.7 How do you evaluate the performance of a ML model?
-	The Dataset used for training the ML model can be devided in training and test Data. The Model is only trained with the training data. The test data is used to see, if the model works they way we want it to work.This can be evaluated by comparison oft he known results with the prediction oft he ML model.
-
-  ## 2.8 How do you prepare data for use in a ML model?
-The data must be in a suitable form, this can be in a CSV file. There should be no missing data. Only the necessary Data schould be in the Dataset. All uncessesary information should be removed from the dataset.
-
-## 2.9 What are some common challenges in ML, and how can they be adressed?
-There is not enough training Data, or the training Data is not accurate enough, which leads to false predictions( Noisy or Incorrect Data). The data must be representative.
-Under oder Overfitting
-
-## 2.10 What are some resources and tools available to help you learn and practice ML?
 
